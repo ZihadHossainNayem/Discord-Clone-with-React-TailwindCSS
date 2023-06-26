@@ -1,4 +1,4 @@
-# Discor Clone - Landing Page
+# Discord Clone - Landing Page
 
 # Demo
 https://discord-nayem.netlify.app/
