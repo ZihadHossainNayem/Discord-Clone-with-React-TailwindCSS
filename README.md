@@ -9,6 +9,8 @@ https://discord-nayem.netlify.app/
 
 <p align="center">
 <img src="https://github.com/ZihadHossainNayem/Discord-Clone-with-React-TailwindCSS/assets/30808845/00b0b402-6183-48fe-ae22-ea0da213bb14" width="400">
-<img src="https://github.com/ZihadHossainNayem/Discord-Clone-with-React-TailwindCSS/assets/30808845/5355a24e-0d90-4791-9877-4d69654dce90" width="400">
 </p>
 
+<p align="center">
+<img src="https://github.com/ZihadHossainNayem/Discord-Clone-with-React-TailwindCSS/assets/30808845/5355a24e-0d90-4791-9877-4d69654dce90" width="400">
+</p>
