@@ -5,7 +5,7 @@ https://discord-nayem.netlify.app/
 
 # Screenshot for pc and mobile
 <p align="center">
-<img src="https://github.com/ZihadHossainNayem/Discord-Clone-with-React-TailwindCSS/assets/30808845/a2e7eda8-e1c6-4c96-bf85-4d475ec1d49d" width="900">
+<img src="https://github.com/ZihadHossainNayem/Discord-Clone-with-React-TailwindCSS/assets/30808845/a2e7eda8-e1c6-4c96-bf85-4d475ec1d49d" width="980">
 </p>
 <p align="center">
 <img src="https://github.com/ZihadHossainNayem/Discord-Clone-with-React-TailwindCSS/assets/30808845/00b0b402-6183-48fe-ae22-ea0da213bb14" width="400">
